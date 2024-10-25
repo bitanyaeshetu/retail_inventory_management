@@ -1,0 +1,5 @@
+# Mandatory dependencies
+mysql-connector-python==8.0.33
+
+# Optional dependencies
+pytest==7.0.0  # For testing
